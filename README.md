@@ -8,5 +8,5 @@ Res-SRDiff 모델을 뇌종양 MRI 이미지에 적용
 저해상도 MRI 스캔을 고해상도로 복원
 
 참고
-원본 모델: Res-SRDiff (https://github.com/mosaf/Res-SRDiff)
+원본 모델: Res-SRDiff (https://github.com/mosaf/Res-SRDiff)    
 데이터셋 : https://huggingface.co/datasets/dwb2023/brain-tumor-image-dataset-semantic-segmentation/viewer/default/train?row=3&views%5B%5D=train
