@@ -20,8 +20,8 @@ SWINIR는 특히 의료 영상에서 뛰어난 성능을 보임
 4.  Med-SRNet (Medical Super-Resolution Network)    
 (https://pmc.ncbi.nlm.nih.gov/articles/PMC9210125/?utm_source=chatgpt.com)   
    
-GAN 기반의 SR 모델로, 의료 영상의 고해상도 표현 학습에 초점을 맞추어 설계됨     
-MRI와 같은 의료 영상에서의 해상도 향상에 효과적   
+  GAN 기반의 SR 모델로, 의료 영상의 고해상도 표현 학습에 초점을 맞추어 설계됨     
+  MRI와 같은 의료 영상에서의 해상도 향상에 효과적   
 
 
 5. MRBT-SR-GAN (Magnetic Resonance Brain Tumor Super-Resolution GAN)   
