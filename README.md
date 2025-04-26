@@ -17,17 +17,12 @@ GAN 기반의 복잡한 학습 없이도 뛰어난 성능을 보임
 특히 Transformer 아키텍처를 활용해 이미지를 복원하는 데 매우 효과적   
 SWINIR는 특히 의료 영상에서 뛰어난 성능을 보임   
    
-4.  Med-SRNet (Medical Super-Resolution Network)    
-(https://pmc.ncbi.nlm.nih.gov/articles/PMC9210125/?utm_source=chatgpt.com)   
-   
-  GAN 기반의 SR 모델로, 의료 영상의 고해상도 표현 학습에 초점을 맞추어 설계됨     
-  MRI와 같은 의료 영상에서의 해상도 향상에 효과적   
+4. [Med-SRNet (Medical Super-Resolution Network)](https://pmc.ncbi.nlm.nih.gov/articles/PMC9210125/?utm_source=chatgpt.com)  
+GAN 기반의 SR 모델로, 의료 영상의 고해상도 표현 학습에 초점을 맞추어 설계됨.  
+MRI와 같은 의료 영상에서 해상도 향상에 효과적임.
 
-
-5. MRBT-SR-GAN (Magnetic Resonance Brain Tumor Super-Resolution GAN)   
-(https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/acm2.13758?utm_source=chatgpt.com)   
-   
-뇌종양 MRI 영상에 특화된 SR 모델로, 종양의 경계와 구조를 더욱 명확하게 복원함
+5. [MRBT-SR-GAN (Magnetic Resonance Brain Tumor Super-Resolution GAN)](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/acm2.13758?utm_source=chatgpt.com)  
+뇌종양 MRI 영상에 특화된 SR 모델로, 종양의 경계와 구조를 더욱 명확하게 복원함.
 
    
     
