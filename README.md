@@ -25,11 +25,10 @@ MRI와 같은 의료 영상에서 해상도 향상에 효과적임.
 뇌종양 MRI 영상에 특화된 SR 모델로, 종양의 경계와 구조를 더욱 명확하게 복원함.
 
 6. SWIN2SR ( https://github.com/mv-lab/swin2sr )
-SwinIR 팀이 후속으로 만든 모델
+SwinIR 팀이 후속으로 만든 모델  
+Swin Transformer 개선 버전 사용  
 
-Swin Transformer 개선 버전 사용
-
-더 정확하고, 더 부드러운 복원 가능
+더 정확하고, 더 부드러운 복원 가능  
 
 
 참고   
